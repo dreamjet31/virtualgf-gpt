@@ -1,4 +1,4 @@
-# MyGirlGPT - Your Personal AI Girlfriend Running on Your Personal Server
+# Virtual Girlfriend GPT - Your Personal AI Girlfriend Running on Your Personal Server
 
 Welcome to the MyGirlGPT repository. This project allows you to build your personalized AI girlfriend with a unique personality, voice, and even selfies. The AI girlfriend runs on your personal server, giving you complete control and privacy.
 
@@ -42,7 +42,7 @@ Now you can have fun chatting with your AI girl!!!
 
 ## [How to Run MyGirlGPT in RunPod](docker/README.md)
 
-https://github.com/Synthintel0/MyGirlGPT/assets/135929884/0484065f-e956-4ace-a8cd-315fadd67156
+https://github.com/flurryunicorn/virtualgf-gpt/assets/135929884/0484065f-e956-4ace-a8cd-315fadd67156
 
 ### What's RunPod
 > [RunPod](https://www.runpod.io) is a cloud computing platform, primarily designed for AI and machine learning applications. 
